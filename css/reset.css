@@ -39,7 +39,13 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
+a{
+  text-decoration:none;
+}
 
+ul,ol{
+  list-style: none;
+}
 /* Make images easier to work with */
 img,
 picture {
